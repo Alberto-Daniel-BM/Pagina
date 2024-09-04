@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#main-content {
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #666;
+}
+
+p {
+    font-size: 16px;
+    color: #444;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#no-btn {
+    background-color: red;
+}
+
+#si-btn {
+    background-color: green;
+}
+
+.footer-text {
+    font-size: 12px;
+    color: #888;
+}
